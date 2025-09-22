@@ -1,0 +1,21 @@
+﻿# Virtual envs / caches
+virtual_env/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor noise
+.vscode/
+
+# Env files
+.env
+*.env
+
+# Data (keep the folder but ignore its contents)
+data/**
+!data/README.md
+
+# OS
+.DS_Store
+Thumbs.db
